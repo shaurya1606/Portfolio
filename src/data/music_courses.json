@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/courses/guitar.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano Essentials",
+      "slug": "piano-essentials",
+      "description": "Master the piano from scratch with step-by-step lessons.",
+      "price": 89.99,
+      "instructor": "Jane Smith",
+      "isFeatured": false,
+      "image": "/courses/piano.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Drumming Basics",
+      "slug": "drumming-basics",
+      "description": "Start your journey as a drummer with this beginner-friendly course.",
+      "price": 79.99,
+      "instructor": "Mike Johnson",
+      "isFeatured": true,
+      "image": "/courses/drums.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Violin for Beginners",
+      "slug": "violin-for-beginners",
+      "description": "Learn to play the violin with easy-to-follow lessons.",
+      "price": 109.99,
+      "instructor": "Emily Clark",
+      "isFeatured": false,
+      "image": "/courses/violin.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Music Theory 101",
+      "slug": "music-theory-101",
+      "description": "Understand the fundamentals of music theory and composition.",
+      "price": 59.99,
+      "instructor": "David Lee",
+      "isFeatured": true,
+      "image": "/courses/theory.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Jazz Improvisation",
+      "slug": "jazz-improvisation",
+      "description": "Explore jazz improvisation techniques for all instruments.",
+      "price": 119.99,
+      "instructor": "Sarah Kim",
+      "isFeatured": false,
+      "image": "/courses/jazz.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Singing Masterclass",
+      "slug": "singing-masterclass",
+      "description": "Improve your vocal skills with professional guidance.",
+      "price": 99.99,
+      "instructor": "Chris Evans",
+      "isFeatured": true,
+      "image": "/courses/singing.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Create your own electronic music tracks using modern software.",
+      "price": 129.99,
+      "instructor": "Alex Turner",
+      "isFeatured": false,
+      "image": "/courses/electronic.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Ukulele Starter Pack",
+      "slug": "ukulele-starter-pack",
+      "description": "Learn to play the ukulele with fun and engaging lessons.",
+      "price": 69.99,
+      "instructor": "Linda Brown",
+      "isFeatured": true,
+      "image": "/courses/ukulele.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Develop your songwriting skills and create original music.",
+      "price": 89.99,
+      "instructor": "Tom Harris",
+      "isFeatured": false,
+      "image": "/courses/songwriting.jpg"
+    }
+  ]
+}
