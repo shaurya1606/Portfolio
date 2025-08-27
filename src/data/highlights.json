@@ -1,0 +1,39 @@
+{
+    "highlights" : [
+  {
+    "id": 1,
+    "quote":
+      "Our students consistently achieve top grades in music exams and competitions.",
+    "name": "Success Stories",
+    "title": "Award-Winning Students"
+  },
+  {
+    "id": 2,
+    "quote":
+      "We offer personalized lessons for all ages and skill levels, from beginner to advanced.",
+    "name": "Tailored Learning",
+    "title": "Lessons for Everyone"
+  },
+  {
+    "id": 3,
+    "quote":
+      "Our faculty includes professional musicians and certified educators with years of experience.",
+    "name": "Expert Instructors",
+    "title": "Meet Our Teachers"
+  },
+  {
+    "id": 4,
+    "quote":
+      "Join our vibrant community and participate in concerts, workshops, and masterclasses.",
+    "name": "Community & Events",
+    "title": "Engage & Grow"
+  },
+  {
+    "id": 5,
+    "quote":
+      "State-of-the-art facilities and a welcoming environment for creative growth.",
+    "name": "Modern Campus",
+    "title": "Inspiring Spaces"
+  }
+]
+}

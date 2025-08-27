@@ -1,6 +1,7 @@
 import HeroSection from '@/components/HeroSection'
 import FeaturedSection from '@/components/FeaturedSection'
 import WhyChooseUsSection from '@/components/WhyChooseUsSection'
+import InfiniteMovingCardsDemo from '@/components/HighlightSection'
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
       <HeroSection />
       <FeaturedSection />
       <WhyChooseUsSection />
+      <InfiniteMovingCardsDemo />
     </main>
   );
 }
