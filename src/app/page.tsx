@@ -2,6 +2,7 @@ import HeroSection from '@/components/HeroSection'
 import FeaturedSection from '@/components/FeaturedSection'
 import WhyChooseUsSection from '@/components/WhyChooseUsSection'
 import InfiniteMovingCardsDemo from '@/components/HighlightSection'
+import Upcoming from '@/components/Upcoming'
 
 export default function Home() {
   return (
@@ -10,6 +11,7 @@ export default function Home() {
       <FeaturedSection />
       <WhyChooseUsSection />
       <InfiniteMovingCardsDemo />
+      <Upcoming />
     </main>
   );
 }
